@@ -1,5 +1,5 @@
-# TextEditor
-Deployed Heroku:
+# Text Editor
+Deployed Heroku:  https://immense-refuge-61088.herokuapp.com/
 
 ## Description
 This app is to build a text editor that runs in the browser. The app will be a single-page application that meets the PWA criteria. The application will also able to be downloaded onto your computer or mobile device to be used outside of the browser.
